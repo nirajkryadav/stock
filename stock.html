@@ -13,41 +13,74 @@
 <body>
     <div id="header">
         <div id="top-nav">
-        <img src="images/cic_logo.png" height="100px">
-                <ul class="nav navbar-nav navbar-right" style="margin-right:0px">
-                        <li ><a style="border-radius:0px 0px 5px 5px " href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
-                        <li><a style="border-radius:0px 0px 5px 5px " href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
-                </ul>
+            <img src="images/cic_logo.png" height="100px">
+            <ul class="nav navbar-nav navbar-right" style="margin-right:0px">
+                <li ><a style="border-radius:0px 0px 5px 5px " href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+                <li><a style="border-radius:0px 0px 5px 5px " href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+            </ul>
         </div>
-    <nav class="navbar navbar-inverse">
-        <div class="container-fluid">
-        <!--logo-->
-            
-        <div class="navbar-header">
-                <a href="#" class="navbar-brand"></a>
-            </div>
-            <div>
-                <ul class="nav navbar-nav">
-                <li ><a href="#" >HOME</a></li>
-                    <li class="active"><a href="#" >ABOUT</a></li>
-                    <li ><a href="#" >CONTENT</a></li>
+        <nav class="navbar navbar-inverse">
+            <div class="container-fluid">
+            <!--logo-->
+                
+            <div class="navbar-header">
+                    <a href="#" class="navbar-brand"></a>
+                </div>
+                <div>
+                    <ul class="nav navbar-nav">
+                    <li><div class="row">
+                        <div class="col-lg-12">
+                            <a href="#" class="btn btn-success" id="menu-toggle"><span class="glyphicon glyphicon-menu-hamburger" aria-hidden="true"></span></a>
+                        </div>
+                    </div></li>
+                    <li ><a href="#" >HOME</a></li>
+                        <li class="active"><a href="#" >ABOUT</a></li>
+                        <li ><a href="#" >CONTENT</a></li>
+                        
+                    </ul>
                     
-                </ul>
+                </div>
                 
             </div>
             
-        </div>
-    </nav>
+         </nav>
     </div>
-    <div id="content">
-        <img src="images/6.jpg" class="img-responsive" width="100%" >
-        <p>
+        <div id="wrapper">
 
-        </p>
-    </div>
-    <footer>
-        <img src="images/logo_footer.png" class="img-responsive"  widht="40" height="20">
-    </footer>
+            <!-- Sidebar -->
+            <div id="sidebar-wrapper">
+                <ul class="sidebar-nav">
+                    <li><a href="#">Account</a></li>
+                    <li><a href="#">Settings</a></li>
+                    <li><a href="#">Logout</a></li>
+                </ul>
+            </div>
+        </div>
+        <!-- Page content -->
+        <div id="page-content-wrapper">
+            <div class="container-fluid">
+                
+
+            </div>
+        </div>
+
+        <!--<div id="content">
+            <img src="images/6.jpg" class="img-responsive" width="100%" >
+            <p>
+
+            </p>
+        </div>-->
+        <footer>
+            <img src="images/logo_footer.png" class="img-responsive"  widht="40" height="20">
+        </footer>
+
+       <!-- Menu toggle script -->
+        <script>
+            $("#menu-toggle").click( function (e){
+                e.preventDefault();
+                $("#wrapper").toggleClass("menuDisplayed");
+            });
+        </script>
 
 
 </body>
