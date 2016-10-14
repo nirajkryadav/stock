@@ -1,0 +1,184 @@
+autonomi stock
+	locker 302{
+		01) Keys of all lockers.
+		02) All perfect raw materials for 1 wall following or obstacle avoidance robot.
+		03) Many Gluesticks(approx 10)
+		04) 1 Wire stripper
+		05) 3 BLDC 
+		06) LiPo Charger B3
+		07) Multimeter
+		08) 1 Arduino Duimilove.
+		09) BeagleBone
+		10) Relay IC
+		11) ISP for direct connection to Atmega and USB
+		12) Approx 10 Green Batteries
+		13) FireBird CDs
+		14) 2 Arduino UNO and 2 Duemilov
+	}
+
+	locker G82{
+		01) 8 roughly built Autonomi workshop line following bots
+		02) 1 Football net.
+		03) 5 Digital number displays
+		04) 32 Sharp IRs
+		05) 2 big propellers
+		06) 2 MIMAS Spartan 6 Modules
+		07) 3 Color sensors
+		08) 3 HanRun ENC28J60 Ethernet
+		09) 1 Gyroscope GY 88
+		10) 2 (6 White line) sensors
+		11) 2 self built IR encoders
+		12) 6 perfect advanced IR sensors
+		13) Tray of poor quality IRs
+		14) 1 digital video web camera
+		15) Tray of poor quality different model IRs
+		16) 6 Servo Pods and 1 servo motor
+		17) Box full of (3 white line sensors)
+		18) ES-125R HDMI cum Wifi (RRs 232 V02) Elesof Tech
+	}
+
+	locker 279{
+		01) Acids
+		02) Box with Rs 100 in it[with Niraj]
+		03) 1 Water heating rod
+	}
+
+	locker G16{
+		01) 1 Transformer
+		02) Box full of 6-12V, 200 rpm Unsoldered motors
+		03) 1 SIM module
+		04) 1 small servo
+		05) 10 Servo motors
+		06) XGBEE
+		07) 4 6-12V, 50rmp motors
+		08) XGBEE pro shield
+		09) Arduino wifi shield[Issued to Nirah]
+		10) 4 big motor control relays
+		11) 4 bigger motor control relays
+		12) 7 small motor control relays
+		13) 2 ESC
+		14) 1 Gripper arm
+		15) Box full of poor quality IRs
+		16) 13 XGBEEs
+		17) XGBEE Bluetooth MicroSD shield
+		18) 2 not working XGBEE wireless boards
+		19) Sensor adaptor board with accelero, gyro and GPS by NEx robotics
+		20) 2 Digital displays
+		21) 1 Blitzkreigh winner footbal playing bot
+		22) 2 Chassis with motors and caster wheels and female jumpers
+	}
+
+	Locker 58{
+		01) Box full of metal chassis
+		02) Box full of big black tires
+		03) Box full of small white tires with rubber covering
+		04) Box full of green batteries
+		05) Tray full of 9-12V, 200rpm Motors with soldered wires
+		06) 2 breadboards
+		07) LED box
+		08) 1 Nose plier
+		09) Arduino USB cables
+		10) Box full of caster wheels
+		11) Spider controller board(controls lots of servo motors)
+		12) 5 macro USB cables
+		13) 4 Soldering stands
+		14) 3 UMAX TVision USB TV Stick, CD and remote[1 issued to Niraj]
+		15) 4 Smallest wireless video and audio camera[1 issued to Pankaj]
+		16) 7 Servos and some servo stands
+		17) 1 USB to VGA cable
+		18) 1 VGA to VGA
+		19) 2 AUX to VGA
+	}
+
+	Locker H92{
+		01) Special red colored multimeter
+		02) Atmega 16aA chip
+		03) 1 PC fan
+		04) 1 servo
+		05) 3 Imfundo battery powering PCBs
+		06) Fully built Atmega 16A with sharp IR and LCD and bootloader.
+		07) 1 Atmega bootloaders
+		08) Flexes and Decoration Items
+		09) 1 SSD PSU 4504 450 V computer power supply
+	}
+
+	Locker 894{
+		01) Tray full of Octonomi Chassis
+		02) DIfferent kinds of small and big motors
+		03) 5 big wheels
+		04) 60m thin wire
+		05) 6-7 Bluetooth modules
+		06) Packet full of potentiometers and switches
+		07) 14 12V battery power charger and arduino power supply adapter
+		08) Packet full of Puff boards
+		09) Non functional Arduino Unos
+		10) 4 black electric tapes
+		11) envelope of transparent plastic sheets
+		12) 3 writing pads and 3 conference pads
+	}
+
+	Locker E00{
+		01) 7 new boxes of firebird bots.
+		02) 1 gripper arm
+		03) 9 firebird boxes.
+		04) 12 firebird accesories
+		05) 3 full nex-robotic arm set
+		06) 1 Tank robot
+	}
+
+	Locker H30{
+		01) Pkt full of IC holders
+		02) Packet full of L293D ICs
+		03) 1 Battery holder
+		04) 5 small tick tock switches
+		05) 24 9V batteries
+		06) Male headers
+		07) 9V battery connectors
+		08) 3 USB Extender
+		09) 3 HDMI port
+		10) 1 poor quality used headphone
+		11) 3 Arduino USB wires
+		12) Box of capacitors
+		13) 1 USB to HDMI cable
+		14) Box full of LCDs
+		15) male to boxed female wires
+		16) 2 yellow pilaas
+		17) Thick, high voltage wires
+		18) 1 crane robot
+		19) 5 damaged Dumilov Arduinos
+		20) Empty boxes
+	}
+
+	Locker E20{
+		01) 1 Firebird big spider bot
+		02) 2 small firebird spider bots
+		03) 2 TT rackets
+		04) 4 Firebird Accesories
+		05) 2 firebird omnidirectionals
+		06) 2 new FIrebird boxes
+		07) 2 firebird gripper arm tank bot without tracks
+	}
+
+	Locker 018{
+		01) 28 metal chassis
+		02) destroyed LiPo batteries, their chargers
+		03) L293D ICs
+		04) Snake robot
+		05) Pkt full of caster wheels
+		06) Laser cut imperfect chassis parts
+		07) Many Alien stuffs built on puffboard
+		08) Video camera bot(RobotoR)
+	}
+
+	Locker 259{
+		01) Pkt full of Atmega IC Holders
+		02) 30-40 not built soldering stands
+		03) Pkt full of Atmega bootloaders
+		04) Pkt ful of Female headers
+		05) Many Puff boards
+		06) Atmega and L293D ICs
+		07) Box full of different resistors
+		08) Box full of male headers, Arduino power supply ports, IC holders, soldering wax, DPDT switches, capcitors, resistors, push buttons
+		09) Sodlering wire
+		10) New Arduino cable
+	}

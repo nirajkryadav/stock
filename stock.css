@@ -42,6 +42,21 @@ html{
     margin: 20px;
 
 }
+.btn-success{
+    background-color: #222;
+    border-color: #222;
+
+}
+.btn{
+    padding: 12px 12px;
+}
+.btn:hover{
+    background:#222;
+}
+.btn-info{
+    background-color: #222;
+    border-color: #222;
+}
 
 
 /* Sidebar */
@@ -49,7 +64,7 @@ html{
     z-index: 1;
     position: absolute;
     width: 0;
-    height: 70%;
+    height: 70e%;
     overflow-y: hidden;
     background: #2C3E50;
     opacity: 0.9;
@@ -92,5 +107,14 @@ html{
 }
 
 .sidebar-nav li a:hover {
-    background: #16A085;
+    background: #222;
+}
+
+.centered-form{
+    margin-top: 60px;
+}
+
+.centered-form .panel{
+    background: rgba(255, 255, 255, 0.8);
+    box-shadow: rgba(0, 0, 0, 0.3) 20px 20px 20px;
 }
